@@ -23,10 +23,10 @@
     "@relay-vaults/abis": "workspace:*",
     "@relay-vaults/addresses": "workspace:*",
     "dd-trace": "5.63.0",
-    "hono": "4.9.2",
+    "hono": "4.13.7",
     "ponder": "0.12.7",
     "viem": "2.34.0",
-    "vitest": "3.2.4",
+    "vitest": "5.0.5",
     "winston": "3.17.0"
   },
   "devDependencies": {
